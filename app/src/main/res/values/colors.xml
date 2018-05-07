@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="copaAzulClaro">#0074B1</color>
+    <color name="copaAzulEscuro">#015386</color>
+    <color name="copaPreto">#171714</color>
+    <color name="copaNude">#f5eed5</color>
+    <color name="copaBege">#e5c685</color>
+    <color name="copaVermelho">#D30208</color>
+</resources>
